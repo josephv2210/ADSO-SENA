@@ -1,0 +1,15 @@
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00General\00General\bin\Debug\net8.0\00General.exe
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00General\00General\bin\Debug\net8.0\00General.deps.json
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00General\00General\bin\Debug\net8.0\00General.runtimeconfig.json
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00General\00General\bin\Debug\net8.0\00General.dll
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00General\00General\bin\Debug\net8.0\00General.pdb
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00General\00General\obj\Debug\net8.0\00General.GeneratedMSBuildEditorConfig.editorconfig
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00General\00General\obj\Debug\net8.0\00General.AssemblyInfoInputs.cache
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00General\00General\obj\Debug\net8.0\00General.AssemblyInfo.cs
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00General\00General\obj\Debug\net8.0\00General.csproj.CoreCompileInputs.cache
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00General\00General\obj\Debug\net8.0\00General.sourcelink.json
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00General\00General\obj\Debug\net8.0\00General.dll
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00General\00General\obj\Debug\net8.0\refint\00General.dll
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00General\00General\obj\Debug\net8.0\00General.pdb
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00General\00General\obj\Debug\net8.0\00General.genruntimeconfig.cache
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00General\00General\obj\Debug\net8.0\ref\00General.dll
