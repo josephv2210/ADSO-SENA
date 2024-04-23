@@ -24,7 +24,7 @@ namespace _02_sumar_dos_numeros
             Console.ReadKey();
         }
 
-        static void calcRectanguloArea()
+        static void CalcRectanguloArea()
         {
             int b = 0, a = 0;
             Console.WriteLine("Programa para calcular el área de un rectángulo");
@@ -37,29 +37,77 @@ namespace _02_sumar_dos_numeros
 
         }
 
-        static void prom()
+        static void Prom()
         {
-            int num1 = 0, num2 = 0;
-            Console.WriteLine("Programa para calcular el área de un rectángulo");
-            Console.WriteLine("Digite la base");
-            num1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Digite la altura");
-            num2 = int.Parse(Console.ReadLine());
-            //Console.WriteLine($"El área del cuadrado con base {b} y altura {a} es {b * a}");
+            string input;
+            double num1 = 0, num2 = 0, num3 = 0;
+            //Console.WriteLine("Programa para calcular el área de un rectángulo");
+
+            Console.WriteLine("Digite el primer numero");
+            input = Console.ReadLine();
+            num1 = ValidateNumber(input, false);
+
+            Console.WriteLine("Digite el segundo numero");
+            input = Console.ReadLine();
+            num2 = num3 = ValidateNumber(input, false);
+
+            Console.WriteLine("Digite el tercer numero");
+            input = Console.ReadLine();
+            num3 = ValidateNumber(input, false);
+
+
+
+            //num1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Digite la altura");
+            //num2 = int.Parse(Console.ReadLine());
+            Console.WriteLine($"El promedio es {(num1+num2+num3)/3}");
             Console.ReadKey();
         }
 
-        static void validateNumber(int num)
+        static double ValidateNumber(string input, bool negativeAcept)
         {
+            
+            double num;
 
+            if (double.TryParse(input, out num))
+            {
+                num = double.Parse(input);
+
+                if (negativeAcept)
+                {
+                    return num;
+                }
+                else
+                {
+                    if (num > 0)
+                    {
+                        return num;
+                    }
+                    else
+                    {
+                        string newInput;
+                        Console.WriteLine("Número invalido, el número no puede ser negativo digite uno nuevo");
+                        newInput = Console.ReadLine();
+                        ValidateNumber(newInput, negativeAcept);
+                    }
+                }
+            }
+            else
+            {
+                string newInput;
+                Console.WriteLine("Número invalido, digite uno nuevo");
+                newInput = Console.ReadLine();
+                ValidateNumber(newInput, negativeAcept);
+            }
+            return 0;
         }
 
         static void Main(string[] args)
         {
-            string input;
+           
             //Sum2Num();
-            //calcRectanguloArea();
-            prom();
+            //CalcRectanguloArea();
+            Prom();
         }
     }
 }

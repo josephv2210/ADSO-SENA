@@ -6,3 +6,10 @@ C:\Users\APRENDIZ\Desktop\Escritorio\00\02-sumar-dos-numeros\02-sumar-dos-numero
 C:\Users\APRENDIZ\Desktop\Escritorio\00\02-sumar-dos-numeros\02-sumar-dos-numeros\obj\Debug\02-sumar-dos-numeros.csproj.CoreCompileInputs.cache
 C:\Users\APRENDIZ\Desktop\Escritorio\00\02-sumar-dos-numeros\02-sumar-dos-numeros\obj\Debug\02-sumar-dos-numeros.exe
 C:\Users\APRENDIZ\Desktop\Escritorio\00\02-sumar-dos-numeros\02-sumar-dos-numeros\obj\Debug\02-sumar-dos-numeros.pdb
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\02-sumar-dos-numeros\02-sumar-dos-numeros\obj\Debug\02-sumar-dos-numeros.exe
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\02-sumar-dos-numeros\02-sumar-dos-numeros\obj\Debug\02-sumar-dos-numeros.pdb
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\02-sumar-dos-numeros\02-sumar-dos-numeros\obj\Debug\02-sumar-dos-numeros.csproj.AssemblyReference.cache
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\02-sumar-dos-numeros\02-sumar-dos-numeros\obj\Debug\02-sumar-dos-numeros.csproj.CoreCompileInputs.cache
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\02-sumar-dos-numeros\02-sumar-dos-numeros\bin\Debug\02-sumar-dos-numeros.exe.config
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\02-sumar-dos-numeros\02-sumar-dos-numeros\bin\Debug\02-sumar-dos-numeros.exe
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\02-sumar-dos-numeros\02-sumar-dos-numeros\bin\Debug\02-sumar-dos-numeros.pdb
