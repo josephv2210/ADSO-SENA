@@ -1,0 +1,8 @@
+C:\Users\APRENDIZ\Desktop\Escritorio\00\02-sumar-dos-numeros\02-sumar-dos-numeros\bin\Debug\02-sumar-dos-numeros.exe.config
+C:\Users\APRENDIZ\Desktop\Escritorio\00\02-sumar-dos-numeros\02-sumar-dos-numeros\bin\Debug\02-sumar-dos-numeros.exe
+C:\Users\APRENDIZ\Desktop\Escritorio\00\02-sumar-dos-numeros\02-sumar-dos-numeros\bin\Debug\02-sumar-dos-numeros.pdb
+C:\Users\APRENDIZ\Desktop\Escritorio\00\02-sumar-dos-numeros\02-sumar-dos-numeros\obj\Debug\02-sumar-dos-numeros.csproj.AssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\Escritorio\00\02-sumar-dos-numeros\02-sumar-dos-numeros\obj\Debug\02-sumar-dos-numeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\APRENDIZ\Desktop\Escritorio\00\02-sumar-dos-numeros\02-sumar-dos-numeros\obj\Debug\02-sumar-dos-numeros.csproj.CoreCompileInputs.cache
+C:\Users\APRENDIZ\Desktop\Escritorio\00\02-sumar-dos-numeros\02-sumar-dos-numeros\obj\Debug\02-sumar-dos-numeros.exe
+C:\Users\APRENDIZ\Desktop\Escritorio\00\02-sumar-dos-numeros\02-sumar-dos-numeros\obj\Debug\02-sumar-dos-numeros.pdb

@@ -1,0 +1,8 @@
+C:\Users\APRENDIZ\Desktop\Escritorio\00\01-HellowWorld\01-HellowWorld\bin\Debug\01-HellowWorld.exe.config
+C:\Users\APRENDIZ\Desktop\Escritorio\00\01-HellowWorld\01-HellowWorld\bin\Debug\01-HellowWorld.exe
+C:\Users\APRENDIZ\Desktop\Escritorio\00\01-HellowWorld\01-HellowWorld\bin\Debug\01-HellowWorld.pdb
+C:\Users\APRENDIZ\Desktop\Escritorio\00\01-HellowWorld\01-HellowWorld\obj\Debug\01-HellowWorld.csproj.AssemblyReference.cache
+C:\Users\APRENDIZ\Desktop\Escritorio\00\01-HellowWorld\01-HellowWorld\obj\Debug\01-HellowWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\APRENDIZ\Desktop\Escritorio\00\01-HellowWorld\01-HellowWorld\obj\Debug\01-HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\APRENDIZ\Desktop\Escritorio\00\01-HellowWorld\01-HellowWorld\obj\Debug\01-HellowWorld.exe
+C:\Users\APRENDIZ\Desktop\Escritorio\00\01-HellowWorld\01-HellowWorld\obj\Debug\01-HellowWorld.pdb
