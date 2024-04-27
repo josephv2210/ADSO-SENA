@@ -88,7 +88,10 @@ namespace _02_sumar_dos_numeros
                         string newInput;
                         Console.WriteLine("Número invalido, el número no puede ser negativo digite uno nuevo");
                         newInput = Console.ReadLine();
-                        ValidateNumber(newInput, negativeAcept);
+                        ValidateNumber(newInput, negativeAcept)
+
+
+
                     }
                 }
             }

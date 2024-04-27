@@ -1,0 +1,7 @@
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00-Evidencias\01-EvidenciaPseudocodigo\01-EvidenciaPseudocodigo\bin\Debug\01-EvidenciaPseudocodigo.exe.config
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00-Evidencias\01-EvidenciaPseudocodigo\01-EvidenciaPseudocodigo\bin\Debug\01-EvidenciaPseudocodigo.exe
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00-Evidencias\01-EvidenciaPseudocodigo\01-EvidenciaPseudocodigo\bin\Debug\01-EvidenciaPseudocodigo.pdb
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00-Evidencias\01-EvidenciaPseudocodigo\01-EvidenciaPseudocodigo\obj\Debug\01-EvidenciaPseudocodigo.csproj.AssemblyReference.cache
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00-Evidencias\01-EvidenciaPseudocodigo\01-EvidenciaPseudocodigo\obj\Debug\01-EvidenciaPseudocodigo.csproj.CoreCompileInputs.cache
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00-Evidencias\01-EvidenciaPseudocodigo\01-EvidenciaPseudocodigo\obj\Debug\01-EvidenciaPseudocodigo.exe
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00-Evidencias\01-EvidenciaPseudocodigo\01-EvidenciaPseudocodigo\obj\Debug\01-EvidenciaPseudocodigo.pdb
