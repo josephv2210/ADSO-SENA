@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B919362D-796A-407C-80B8-DE7C7383075B}</ProjectGuid>
+    <ProjectGuid>{5EB10509-AC89-49D7-AC1B-1948E647954F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01_EvidenciaPseudocodigo</RootNamespace>
-    <AssemblyName>01-EvidenciaPseudocodigo</AssemblyName>
+    <RootNamespace>_01_EvidenciaAlgoritmos</RootNamespace>
+    <AssemblyName>01-EvidenciaAlgoritmos</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

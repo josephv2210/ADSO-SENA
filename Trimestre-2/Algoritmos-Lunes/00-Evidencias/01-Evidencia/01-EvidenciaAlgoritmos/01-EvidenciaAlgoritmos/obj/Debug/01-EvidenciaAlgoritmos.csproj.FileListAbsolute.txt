@@ -1,0 +1,7 @@
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00-Evidencias\01-Evidencia\01-EvidenciaAlgoritmos\01-EvidenciaAlgoritmos\bin\Debug\01-EvidenciaAlgoritmos.exe.config
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00-Evidencias\01-Evidencia\01-EvidenciaAlgoritmos\01-EvidenciaAlgoritmos\bin\Debug\01-EvidenciaAlgoritmos.exe
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00-Evidencias\01-Evidencia\01-EvidenciaAlgoritmos\01-EvidenciaAlgoritmos\bin\Debug\01-EvidenciaAlgoritmos.pdb
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00-Evidencias\01-Evidencia\01-EvidenciaAlgoritmos\01-EvidenciaAlgoritmos\obj\Debug\01-EvidenciaAlgoritmos.csproj.AssemblyReference.cache
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00-Evidencias\01-Evidencia\01-EvidenciaAlgoritmos\01-EvidenciaAlgoritmos\obj\Debug\01-EvidenciaAlgoritmos.csproj.CoreCompileInputs.cache
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00-Evidencias\01-Evidencia\01-EvidenciaAlgoritmos\01-EvidenciaAlgoritmos\obj\Debug\01-EvidenciaAlgoritmos.exe
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\00-Evidencias\01-Evidencia\01-EvidenciaAlgoritmos\01-EvidenciaAlgoritmos\obj\Debug\01-EvidenciaAlgoritmos.pdb

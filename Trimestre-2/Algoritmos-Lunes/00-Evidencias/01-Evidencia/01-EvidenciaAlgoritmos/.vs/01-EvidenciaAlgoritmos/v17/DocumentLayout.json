@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-EvidenciaPseudocodigo\\",
+  "WorkspaceRootPath": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B919362D-796A-407C-80B8-DE7C7383075B}|01-EvidenciaPseudocodigo\\01-EvidenciaPseudocodigo.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidenciapseudocodigo\\01-evidenciapseudocodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B919362D-796A-407C-80B8-DE7C7383075B}|01-EvidenciaPseudocodigo\\01-EvidenciaPseudocodigo.csproj|solutionrelative:01-evidenciapseudocodigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,13 +48,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-EvidenciaPseudocodigo\\01-EvidenciaPseudocodigo\\Program.cs",
-              "RelativeDocumentMoniker": "01-EvidenciaPseudocodigo\\Program.cs",
-              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-EvidenciaPseudocodigo\\01-EvidenciaPseudocodigo\\Program.cs",
-              "RelativeToolTip": "01-EvidenciaPseudocodigo\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBUAAABAAAAA",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\Program.cs",
+              "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\Program.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\Program.cs",
+              "RelativeToolTip": "01-EvidenciaAlgoritmos\\Program.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAAwLkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T04:54:02.118Z",
+              "WhenOpened": "2024-04-30T02:27:09.107Z",
               "EditorCaption": ""
             }
           ]

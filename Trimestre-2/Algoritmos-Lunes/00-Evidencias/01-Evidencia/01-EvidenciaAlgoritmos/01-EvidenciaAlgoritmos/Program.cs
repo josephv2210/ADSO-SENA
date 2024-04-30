@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01_EvidenciaPseudocodigo
+namespace _01_EvidenciaAlgoritmos
 {
     internal class Program
     {
@@ -111,6 +111,58 @@ namespace _01_EvidenciaPseudocodigo
             Console.ReadKey();
         }
 
+        static void parking()
+        {
+            //Un estacionamiento requiere determinar el cobro que debe aplicar a las personas
+            //que lo utilizan. Considere que el cobro es con base en las horas que lo disponen y
+            //que las fracciones de hora se toman como completas y realice un diagrama de flujo
+            //y pseudocódigo que representen el algoritmo que permita determinar el cobro.
+
+            string input;
+            double valorHora, horas;
+            Console.WriteLine("Programa para determinar el cobro por hora de un parqueadero");
+
+            Console.WriteLine("Por favor digite el valor de la hora");
+            input = Console.ReadLine();
+            valorHora = ValidateNumber(input, false);
+
+            Console.WriteLine("Por favor digite la cantidad de horas que duro el vehiculo en el parqueadero");
+            input = Console.ReadLine();
+            horas = ValidateNumber(input, false);
+
+
+
+            Console.WriteLine($"El valor a pagar es es -> {valorHora * horas}");
+
+            Console.ReadKey();
+        }
+
+        static void cobroLaBrochaGorda()
+        {
+            //Pinturas "La brocha gorda" requiere determinar cuánto cobrar por trabajos de
+            //pintura. Considere que se cobra por m2 y realice un diagrama de flujo y
+            //pseudocódigo que representen el algoritmo que le permita ir generando
+            //presupuestos para cada cliente.
+
+            string input;
+            double valorM2, m2;
+            Console.WriteLine("Programa para determinar el cobro por trabajo");
+
+            Console.WriteLine("Por favor digite el costo por metro cuadrado");
+            input = Console.ReadLine();
+            valorM2 = ValidateNumber(input, false);
+
+            Console.WriteLine("Por favor digite la cantidad de metros cuadrados a pintar");
+            input = Console.ReadLine();
+            m2 = ValidateNumber(input, false);
+
+
+
+            Console.WriteLine($"El valor a pagar es es -> {valorM2 * m2}");
+
+            Console.ReadKey();
+        }
+
         static double ValidateNumber(string input, bool negativeAcept)
         {
             double num;
@@ -145,7 +197,9 @@ namespace _01_EvidenciaPseudocodigo
             //AreaVolumenCilindro();
             //AreaTriangulo();
             //MxToUsd();
-            AgeCalculator();
+            // AgeCalculator();
+            //parking();
+            cobroLaBrochaGorda();
 
             //Escribir -> Console.WriteLine
             //Leer -> a = float.Parse(Console.ReadLine)
@@ -155,3 +209,4 @@ namespace _01_EvidenciaPseudocodigo
         }
     }
 }
+
