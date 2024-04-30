@@ -26,7 +26,7 @@ namespace _01_EvidenciaPseudocodigo
             Console.WriteLine($"La hipotenusa del triangulo rectangulo es {Math.Sqrt((Math.Pow(a, 2) + Math.Pow(b, 2)))}");
             Console.ReadKey();
         }
-        
+
         static void AreaVolumenCilindro()
         {
             //Desarrolla un algoritmo (pseudocódigo) que permita determinar el área y volumen de un cilindro
@@ -66,10 +66,10 @@ namespace _01_EvidenciaPseudocodigo
             input = Console.ReadLine();
             h = ValidateNumber(input, false);
 
-            Console.WriteLine($"El area es {(b*h)/2}");
+            Console.WriteLine($"El area es {(b * h) / 2}");
             Console.ReadKey();
         }
-        
+
         static void MxToUsd()
         {
             // Una empresa importadora desea determinar cuántos dólares puede adquirir con equis cantidad de dinero mexicano. Realice un diagrama de flujo y pseudocódigo que representen el algoritmo para tal fin.
@@ -81,7 +81,33 @@ namespace _01_EvidenciaPseudocodigo
             input = Console.ReadLine();
             Mx = ValidateNumber(input, false);
 
-            Console.WriteLine($"La cantidad de dolases que puede comprar con {Mx} son -> {Mx/valConversionMxUsd} ");
+            Console.WriteLine($"La cantidad de dolases que puede comprar con {Mx} son -> {Mx / valConversionMxUsd} ");
+            Console.ReadKey();
+        }
+
+        static void AgeCalculator()
+        {
+            //Una empresa que contrata personal requiere determinar la edad de las personas que solicitan trabajo, pero cuando se les realiza la entrevista sólo se les pregunta el año en que nacieron. 
+            //Realice el diagrama de flujo y pseudocódigo que representen el algoritmo para solucionar este problema.
+            string input;
+            int today = DateTime.Now.Year;
+            double birdthYear;
+            Console.WriteLine("Programa para determinar la edad de las personas");
+
+            Console.WriteLine("Digite el año de nacimiento");
+            input = Console.ReadLine();
+            birdthYear = ValidateNumber(input, false);
+
+            while (today - birdthYear < 0)
+            {
+                Console.WriteLine("El año dado no puede ser mayor al año actual");
+                Console.WriteLine("Por favor digite el año de nacimiento nuevamente");
+                input = Console.ReadLine();
+                birdthYear = ValidateNumber(input, false);
+            }
+
+            Console.WriteLine($"La edad es -> {today - birdthYear}");
+
             Console.ReadKey();
         }
 
@@ -93,34 +119,25 @@ namespace _01_EvidenciaPseudocodigo
             {
                 num = double.Parse(input);
 
-                if (negativeAcept)
+                if (negativeAcept || num > 0)
                 {
                     return num;
                 }
                 else
                 {
-                    if (num > 0)
-                    {
-                        return num;
-                    }
-                    else
-                    {
-                        string newInput;
-                        Console.WriteLine("Número invalido, el número no puede ser negativo digite uno nuevo");
-                        newInput = Console.ReadLine();
-                        ValidateNumber(newInput, negativeAcept);
-                    }
+                    Console.WriteLine("Número inválido, el número no puede ser negativo. Ingrese uno nuevo:");
+                    string newInput = Console.ReadLine();
+                    return ValidateNumber(newInput, negativeAcept);
                 }
             }
             else
             {
-                string newInput;
-                Console.WriteLine("Número invalido, digite uno nuevo");
-                newInput = Console.ReadLine();
-                ValidateNumber(newInput, negativeAcept);
+                Console.WriteLine("Número inválido. Ingrese uno nuevo:");
+                string newInput = Console.ReadLine();
+                return ValidateNumber(newInput, negativeAcept);
             }
-            return 0;
         }
+
 
         static void Main(string[] args)
         {
@@ -128,7 +145,8 @@ namespace _01_EvidenciaPseudocodigo
             //AreaVolumenCilindro();
             //AreaTriangulo();
             //MxToUsd();
-            
+            AgeCalculator();
+
             //Escribir -> Console.WriteLine
             //Leer -> a = float.Parse(Console.ReadLine)
 

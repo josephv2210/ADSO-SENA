@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\02-sumar-dos-numeros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\02-sumar-dos-numeros\\02-sumar-dos-numeros\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:02-sumar-dos-numeros\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67B0E8B4-EAB1-428E-9F9D-19BA1DBA91CF}|02-sumar-dos-numeros\\02-sumar-dos-numeros.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\02-sumar-dos-numeros\\02-sumar-dos-numeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B0E8B4-EAB1-428E-9F9D-19BA1DBA91CF}|02-sumar-dos-numeros\\02-sumar-dos-numeros.csproj|solutionrelative:02-sumar-dos-numeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,9 +50,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\02-sumar-dos-numeros\\02-sumar-dos-numeros\\Program.cs",
               "RelativeDocumentMoniker": "02-sumar-dos-numeros\\Program.cs",
-              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\02-sumar-dos-numeros\\02-sumar-dos-numeros\\Program.cs",
-              "RelativeToolTip": "02-sumar-dos-numeros\\Program.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAADwv1sAAAAAAAAA",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\02-sumar-dos-numeros\\02-sumar-dos-numeros\\Program.cs*",
+              "RelativeToolTip": "02-sumar-dos-numeros\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T02:53:11.879Z",
               "EditorCaption": ""
