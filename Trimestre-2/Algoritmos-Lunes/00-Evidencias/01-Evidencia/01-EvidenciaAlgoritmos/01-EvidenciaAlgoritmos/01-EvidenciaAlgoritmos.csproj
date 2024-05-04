@@ -50,6 +50,8 @@
     <Compile Include="algorithms\e-AgeCalculator.cs" />
     <Compile Include="algorithms\f-Parking.cs" />
     <Compile Include="algorithms\g-CobroLaBrochaGorda.cs" />
+    <Compile Include="algorithms\h-HipotenusaTriangulo2.cs" />
+    <Compile Include="algorithms\i-LaCurvaLoca.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="utils\Validators.cs" />

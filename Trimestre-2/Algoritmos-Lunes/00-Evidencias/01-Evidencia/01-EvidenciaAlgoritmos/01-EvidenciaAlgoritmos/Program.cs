@@ -18,8 +18,8 @@ namespace _01_EvidenciaAlgoritmos
                 Console.WriteLine("d. Pesos mexicanos a dolar");
                 Console.WriteLine("e. Calculador de edad");
                 Console.WriteLine("f. Cobro de un parqueadero");
-                Console.WriteLine("g. Hipotenusa del triangulo");
-                Console.WriteLine("h. Hipotenusa del triangulo");
+                Console.WriteLine("g. Cobrar por M2 de trabajo");
+                Console.WriteLine("h. Hipotenusa del triangulo 2");
                 Console.WriteLine("i. Hipotenusa del triangulo");
                 Console.WriteLine("j. Hipotenusa del triangulo");
                 Console.WriteLine("k. Hipotenusa del triangulo");
@@ -35,7 +35,7 @@ namespace _01_EvidenciaAlgoritmos
                 Console.WriteLine("u. Hipotenusa del triangulo");
                 Console.WriteLine("v. Hipotenusa del triangulo");
                 Console.WriteLine("w. Hipotenusa del triangulo");
-                Console.WriteLine("px. Hipotenusa del triangulo");
+                Console.WriteLine("x. Hipotenusa del triangulo");
 
 
                 Console.WriteLine("salir");
@@ -69,10 +69,40 @@ namespace _01_EvidenciaAlgoritmos
                         g_CobroLaBrochaGorda.CobroLaBrochaGorda();
                         break;
                     case "h":
+                        h_HipotenusaTriangulo2.HipotenusaTriangulo2();
                         break;
                     case "i":
+                        i_LaCurvaLoca.LaCurvaLoca();
                         break;
                     case "j":
+                        break;
+                    case "k":
+                        break;
+                    case "l":
+                        break;
+                    case "m":
+                        break;
+                    case "n":
+                        break;
+                    case "o":
+                        break;
+                    case "p":
+                        break;
+                    case "q":
+                        break;
+                    case "r":
+                        break;
+                    case "s":
+                        break;
+                    case "t":
+                        break;
+                    case "u":
+                        break;
+                    case "v":
+                        break;
+                    case "w":
+                        break;
+                    case "x":
                         break;
                     default:
                         Console.WriteLine("\nOpción incorrecta, por favor digite una nueva\n");

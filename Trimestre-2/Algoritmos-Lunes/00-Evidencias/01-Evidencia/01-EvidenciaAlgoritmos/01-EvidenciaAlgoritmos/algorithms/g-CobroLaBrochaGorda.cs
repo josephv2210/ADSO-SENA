@@ -14,7 +14,7 @@ namespace _01_EvidenciaAlgoritmos.algorithms
 
             string input;
             double valorM2, m2;
-            Console.WriteLine("Programa para determinar el cobro por trabajo");
+            Console.WriteLine("Programa para determinar el cobro por trabajo\n");
 
             Console.WriteLine("Por favor digite el costo por metro cuadrado");
             input = Console.ReadLine();
@@ -26,9 +26,10 @@ namespace _01_EvidenciaAlgoritmos.algorithms
 
 
 
-            Console.WriteLine($"El valor a pagar es es -> {valorM2 * m2}");
+            Console.WriteLine($"\nEl valor a pagar es es -> {valorM2 * m2}");
 
-            Console.ReadKey();
+            Utils.endAlgorithm(g_CobroLaBrochaGorda.CobroLaBrochaGorda);
+
         }
     }
 }

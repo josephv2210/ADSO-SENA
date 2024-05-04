@@ -12,7 +12,7 @@ namespace _01_EvidenciaAlgoritmos.algorithms
             string input;
             int today = DateTime.Now.Year;
             double birdthYear;
-            Console.WriteLine("Programa para determinar la edad de las personas");
+            Console.WriteLine("Programa para determinar la edad de las personas\n");
 
             Console.WriteLine("Digite el año de nacimiento");
             input = Console.ReadLine();
@@ -26,9 +26,10 @@ namespace _01_EvidenciaAlgoritmos.algorithms
                 birdthYear = Utils.ValidateNumber(input, false);
             }
 
-            Console.WriteLine($"La edad es -> {today - birdthYear}");
+            Console.WriteLine($"\nLa edad es -> {today - birdthYear}");
 
-            Console.ReadKey();
+            Utils.endAlgorithm(e_AgeCalculator.AgeCalculator);
+
         }
     }
 }

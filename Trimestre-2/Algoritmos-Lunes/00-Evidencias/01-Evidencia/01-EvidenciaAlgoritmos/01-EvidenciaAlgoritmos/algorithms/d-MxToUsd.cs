@@ -10,14 +10,15 @@ namespace _01_EvidenciaAlgoritmos.algorithms
             // Una empresa importadora desea determinar cuántos dólares puede adquirir con equis cantidad de dinero mexicano. Realice un diagrama de flujo y pseudocódigo que representen el algoritmo para tal fin.
             string input;
             double valConversionMxUsd = 17.16, Mx = 0;
-            Console.WriteLine("Programa para calcular cuantos dolares puedes adquirir con pesos mexicanos");
+            Console.WriteLine("Programa para calcular cuantos dolares puedes adquirir con pesos mexicanos\n");
 
             Console.WriteLine("Digite la cantidad de pesos mexicanos");
             input = Console.ReadLine();
             Mx = Utils.ValidateNumber(input, false);
 
-            Console.WriteLine($"La cantidad de dolases que puede comprar con {Mx} son -> {Mx / valConversionMxUsd} ");
-            Console.ReadKey();
+            Console.WriteLine($"\nLa cantidad de dolases que puede comprar con {Mx} son -> {Mx / valConversionMxUsd} ");
+            Utils.endAlgorithm(d_MxToUsd.MxToUsd);
+
         }
     }
 }

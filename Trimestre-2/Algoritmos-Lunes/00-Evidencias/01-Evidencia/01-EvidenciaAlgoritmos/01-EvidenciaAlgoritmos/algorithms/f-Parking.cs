@@ -14,7 +14,7 @@ namespace _01_EvidenciaAlgoritmos.algorithms
 
             string input;
             double valorHora, horas;
-            Console.WriteLine("Programa para determinar el cobro por hora de un parqueadero");
+            Console.WriteLine("Programa para determinar el cobro por hora de un parqueadero\n");
 
             Console.WriteLine("Por favor digite el valor de la hora");
             input = Console.ReadLine();
@@ -26,9 +26,10 @@ namespace _01_EvidenciaAlgoritmos.algorithms
 
 
 
-            Console.WriteLine($"El valor a pagar es es -> {valorHora * horas}");
+            Console.WriteLine($"\nEl valor a pagar es es -> {valorHora * horas}");
 
-            Console.ReadKey();
+            Utils.endAlgorithm(f_Parking.Parking);
+
         }
     }
 }
