@@ -1,211 +1,90 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using _01_EvidenciaAlgoritmos.algorithms;
+using System;
 
 namespace _01_EvidenciaAlgoritmos
 {
     internal class Program
     {
-        static void HipotenusaTriangulo()
+        static void menu()
         {
-            // Realice el pseudocódigo de un programa que sirva para determinar la hipotenusa de un triángulo rectángulo
-            string input;
-            double a = 0, b = 0;
-            Console.WriteLine("Programa para para determinar la hipotenusa de un triángulo rectángulo");
-
-            Console.WriteLine("Digite el lado a del triangulo");
-            input = Console.ReadLine();
-            a = ValidateNumber(input, false);
-
-            Console.WriteLine("Digite el lado b del triangulo");
-            input = Console.ReadLine();
-            b = ValidateNumber(input, false);
-
-            Console.WriteLine($"La hipotenusa del triangulo rectangulo es {Math.Sqrt((Math.Pow(a, 2) + Math.Pow(b, 2)))}");
-            Console.ReadKey();
-        }
-
-        static void AreaVolumenCilindro()
-        {
-            //Desarrolla un algoritmo (pseudocódigo) que permita determinar el área y volumen de un cilindro
-            string input;
-            double h = 0, r = 0, area = 0, volumen = 0;
-            Console.WriteLine("Programa para determinar el area y el volumen de un cilindro");
-
-            Console.WriteLine("Digite el radio del cilindro");
-            input = Console.ReadLine();
-            r = ValidateNumber(input, false);
-
-            Console.WriteLine("Digite la altura del cilindro");
-            input = Console.ReadLine();
-            h = ValidateNumber(input, false);
-
-            area = (2 * Math.PI * (Math.Pow(r, 2))) + (2 * Math.PI * r * h);
-            volumen = Math.PI * Math.Pow(r, 2) * h;
-
-
-            Console.WriteLine($"El area del cilindro es -> {area}");
-            Console.WriteLine($"El volumen del cilindro es -> {volumen}");
-            Console.ReadKey();
-        }
-
-        static void AreaTriangulo()
-        {
-            // Realice un diagrama de flujo y pseudocódigo que representen el algoritmo para obtener el área de un triángulo.
-            string input;
-            double h = 0, b = 0;
-            Console.WriteLine("Programa para determinar el area de un triangulo");
-
-            Console.WriteLine("Digite la base del triangulo");
-            input = Console.ReadLine();
-            b = ValidateNumber(input, false);
-
-            Console.WriteLine("Digite la altura del triangulo");
-            input = Console.ReadLine();
-            h = ValidateNumber(input, false);
-
-            Console.WriteLine($"El area es {(b * h) / 2}");
-            Console.ReadKey();
-        }
-
-        static void MxToUsd()
-        {
-            // Una empresa importadora desea determinar cuántos dólares puede adquirir con equis cantidad de dinero mexicano. Realice un diagrama de flujo y pseudocódigo que representen el algoritmo para tal fin.
-            string input;
-            double valConversionMxUsd = 17.16, Mx = 0;
-            Console.WriteLine("Programa para calcular cuantos dolares puedes adquirir con pesos mexicanos");
-
-            Console.WriteLine("Digite la cantidad de pesos mexicanos");
-            input = Console.ReadLine();
-            Mx = ValidateNumber(input, false);
-
-            Console.WriteLine($"La cantidad de dolases que puede comprar con {Mx} son -> {Mx / valConversionMxUsd} ");
-            Console.ReadKey();
-        }
-
-        static void AgeCalculator()
-        {
-            //Una empresa que contrata personal requiere determinar la edad de las personas que solicitan trabajo, pero cuando se les realiza la entrevista sólo se les pregunta el año en que nacieron. 
-            //Realice el diagrama de flujo y pseudocódigo que representen el algoritmo para solucionar este problema.
-            string input;
-            int today = DateTime.Now.Year;
-            double birdthYear;
-            Console.WriteLine("Programa para determinar la edad de las personas");
-
-            Console.WriteLine("Digite el año de nacimiento");
-            input = Console.ReadLine();
-            birdthYear = ValidateNumber(input, false);
-
-            while (today - birdthYear < 0)
+            string option;
+            do
             {
-                Console.WriteLine("El año dado no puede ser mayor al año actual");
-                Console.WriteLine("Por favor digite el año de nacimiento nuevamente");
-                input = Console.ReadLine();
-                birdthYear = ValidateNumber(input, false);
-            }
-
-            Console.WriteLine($"La edad es -> {today - birdthYear}");
-
-            Console.ReadKey();
-        }
-
-        static void parking()
-        {
-            //Un estacionamiento requiere determinar el cobro que debe aplicar a las personas
-            //que lo utilizan. Considere que el cobro es con base en las horas que lo disponen y
-            //que las fracciones de hora se toman como completas y realice un diagrama de flujo
-            //y pseudocódigo que representen el algoritmo que permita determinar el cobro.
-
-            string input;
-            double valorHora, horas;
-            Console.WriteLine("Programa para determinar el cobro por hora de un parqueadero");
-
-            Console.WriteLine("Por favor digite el valor de la hora");
-            input = Console.ReadLine();
-            valorHora = ValidateNumber(input, false);
-
-            Console.WriteLine("Por favor digite la cantidad de horas que duro el vehiculo en el parqueadero");
-            input = Console.ReadLine();
-            horas = ValidateNumber(input, false);
+                Console.WriteLine("Bienvenido a la evidencia de aprendizaje sobre algoritmos");
+                Console.WriteLine("\nA continuación el menú de los algoritmos");
+                Console.WriteLine("\na. Hipotenusa del triangulo");
+                Console.WriteLine("b. Area y volumen de un cilindro");
+                Console.WriteLine("c. Area de un triangulo");
+                Console.WriteLine("d. Pesos mexicanos a dolar");
+                Console.WriteLine("e. Calculador de edad");
+                Console.WriteLine("f. Cobro de un parqueadero");
+                Console.WriteLine("g. Hipotenusa del triangulo");
+                Console.WriteLine("h. Hipotenusa del triangulo");
+                Console.WriteLine("i. Hipotenusa del triangulo");
+                Console.WriteLine("j. Hipotenusa del triangulo");
+                Console.WriteLine("k. Hipotenusa del triangulo");
+                Console.WriteLine("l. Hipotenusa del triangulo");
+                Console.WriteLine("m. Hipotenusa del triangulo");
+                Console.WriteLine("n. Hipotenusa del triangulo");
+                Console.WriteLine("o. Hipotenusa del triangulo");
+                Console.WriteLine("p. Hipotenusa del triangulo");
+                Console.WriteLine("q. Hipotenusa del triangulo");
+                Console.WriteLine("r. Hipotenusa del triangulo");
+                Console.WriteLine("s. Hipotenusa del triangulo");
+                Console.WriteLine("t. Hipotenusa del triangulo");
+                Console.WriteLine("u. Hipotenusa del triangulo");
+                Console.WriteLine("v. Hipotenusa del triangulo");
+                Console.WriteLine("w. Hipotenusa del triangulo");
+                Console.WriteLine("px. Hipotenusa del triangulo");
 
 
+                Console.WriteLine("salir");
 
-            Console.WriteLine($"El valor a pagar es es -> {valorHora * horas}");
+                Console.WriteLine("\nDigite el algoritmo seleccionado");
 
-            Console.ReadKey();
-        }
+                option = Console.ReadLine();
+                Console.Clear();
 
-        static void cobroLaBrochaGorda()
-        {
-            //Pinturas "La brocha gorda" requiere determinar cuánto cobrar por trabajos de
-            //pintura. Considere que se cobra por m2 y realice un diagrama de flujo y
-            //pseudocódigo que representen el algoritmo que le permita ir generando
-            //presupuestos para cada cliente.
-
-            string input;
-            double valorM2, m2;
-            Console.WriteLine("Programa para determinar el cobro por trabajo");
-
-            Console.WriteLine("Por favor digite el costo por metro cuadrado");
-            input = Console.ReadLine();
-            valorM2 = ValidateNumber(input, false);
-
-            Console.WriteLine("Por favor digite la cantidad de metros cuadrados a pintar");
-            input = Console.ReadLine();
-            m2 = ValidateNumber(input, false);
-
-
-
-            Console.WriteLine($"El valor a pagar es es -> {valorM2 * m2}");
-
-            Console.ReadKey();
-        }
-
-        static double ValidateNumber(string input, bool negativeAcept)
-        {
-            double num;
-
-            if (double.TryParse(input, out num))
-            {
-                num = double.Parse(input);
-
-                if (negativeAcept || num > 0)
+                switch (option)
                 {
-                    return num;
+                    case "a":
+                        a_hipotenusaTriangulo.HipotenusaTriangulo();
+                        break;
+                    case "b":
+                        b_AreaVolumenCilindro.AreaVolumenCilindro();
+                        break;
+                    case "c":
+                        c_AreaTriangulo.AreaTriangulo();
+                        break;
+                    case "d":
+                        d_MxToUsd.MxToUsd();
+                        break;
+                    case "e":
+                        e_AgeCalculator.AgeCalculator();
+                        break;
+                    case "f":
+                        f_Parking.Parking();
+                        break;
+                    case "g":
+                        g_CobroLaBrochaGorda.CobroLaBrochaGorda();
+                        break;
+                    case "h":
+                        break;
+                    case "i":
+                        break;
+                    case "j":
+                        break;
+                    default:
+                        Console.WriteLine("\nOpción incorrecta, por favor digite una nueva\n");
+                        break;
                 }
-                else
-                {
-                    Console.WriteLine("Número inválido, el número no puede ser negativo. Ingrese uno nuevo:");
-                    string newInput = Console.ReadLine();
-                    return ValidateNumber(newInput, negativeAcept);
-                }
-            }
-            else
-            {
-                Console.WriteLine("Número inválido. Ingrese uno nuevo:");
-                string newInput = Console.ReadLine();
-                return ValidateNumber(newInput, negativeAcept);
-            }
-        }
 
+            } while (option != "salir");
+        }
 
         static void Main(string[] args)
         {
-            //HipotenusaTriangulo();
-            //AreaVolumenCilindro();
-            //AreaTriangulo();
-            //MxToUsd();
-            // AgeCalculator();
-            //parking();
-            cobroLaBrochaGorda();
-
-            //Escribir -> Console.WriteLine
-            //Leer -> a = float.Parse(Console.ReadLine)
-
-
-
+            menu();
         }
     }
 }

@@ -43,11 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="algorithms\a-hipotenusaTriangulo.cs" />
+    <Compile Include="algorithms\b-AreaVolumenCilindro.cs" />
+    <Compile Include="algorithms\c-AreaTriangulo.cs" />
+    <Compile Include="algorithms\d-MxToUsd.cs" />
+    <Compile Include="algorithms\e-AgeCalculator.cs" />
+    <Compile Include="algorithms\f-Parking.cs" />
+    <Compile Include="algorithms\g-CobroLaBrochaGorda.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="utils\Validators.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
