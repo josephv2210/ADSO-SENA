@@ -11,32 +11,31 @@ namespace _01_EvidenciaAlgoritmos
             do
             {
                 Console.WriteLine("Bienvenido a la evidencia de aprendizaje sobre algoritmos");
-                Console.WriteLine("\nA continuación el menú de los algoritmos");
-                Console.WriteLine("\na. Hipotenusa del triangulo");
-                Console.WriteLine("b. Area y volumen de un cilindro");
-                Console.WriteLine("c. Area de un triangulo");
-                Console.WriteLine("d. Pesos mexicanos a dolar");
-                Console.WriteLine("e. Calculador de edad");
+                Console.WriteLine("\nA continuación, el menú de los algoritmos:");
+                Console.WriteLine("\na. Hipotenusa del triángulo");
+                Console.WriteLine("b. Área y volumen de un cilindro");
+                Console.WriteLine("c. Área de un triángulo");
+                Console.WriteLine("d. Pesos mexicanos a dólar");
+                Console.WriteLine("e. Calculadora de edad");
                 Console.WriteLine("f. Cobro de un parqueadero");
                 Console.WriteLine("g. Cobrar por M2 de trabajo");
-                Console.WriteLine("h. Hipotenusa del triangulo 2");
-                Console.WriteLine("i. Hipotenusa del triangulo");
-                Console.WriteLine("j. Hipotenusa del triangulo");
-                Console.WriteLine("k. Hipotenusa del triangulo");
-                Console.WriteLine("l. Hipotenusa del triangulo");
-                Console.WriteLine("m. Hipotenusa del triangulo");
-                Console.WriteLine("n. Hipotenusa del triangulo");
-                Console.WriteLine("o. Hipotenusa del triangulo");
-                Console.WriteLine("p. Hipotenusa del triangulo");
-                Console.WriteLine("q. Hipotenusa del triangulo");
-                Console.WriteLine("r. Hipotenusa del triangulo");
-                Console.WriteLine("s. Hipotenusa del triangulo");
-                Console.WriteLine("t. Hipotenusa del triangulo");
-                Console.WriteLine("u. Hipotenusa del triangulo");
-                Console.WriteLine("v. Hipotenusa del triangulo");
-                Console.WriteLine("w. Hipotenusa del triangulo");
-                Console.WriteLine("x. Hipotenusa del triangulo");
-
+                Console.WriteLine("h. Hipotenusa del triángulo 2");
+                Console.WriteLine("i. Cobro del boleto de un viaje");
+                Console.WriteLine("j. Determinar el tiempo de viaje de una ciudad a otra");
+                Console.WriteLine("k. Cobro del consumo total de m^3 ");
+                Console.WriteLine("l. Cobro del consumo de energía eléctrica");
+                Console.WriteLine("m. Cobro final del producto");
+                Console.WriteLine("n. Ahorro de una persona en un año");
+                Console.WriteLine("o. Determinar el cobro de un cheque");
+                Console.WriteLine("p. Potencia eléctrica del circuito");
+                Console.WriteLine("q. Pseudocódigo preparar torta");
+                Console.WriteLine("r. Pseudocódigo confeccionar una prenda");
+                Console.WriteLine("s. Pseudocódigo preparar un pastel");
+                Console.WriteLine("t. Área de un cuadrado");
+                Console.WriteLine("u. Promedio de los exámenes de un alumno");
+                Console.WriteLine("v. Cálculo del tiempo vivido");
+                Console.WriteLine("w. Cobro costo de la llamada");
+                Console.WriteLine("x. Cobro huésped");
 
                 Console.WriteLine("salir");
 
@@ -81,30 +80,43 @@ namespace _01_EvidenciaAlgoritmos
                         k_CalculoM3LaConagua.CalculoM3LaConagua();
                         break;
                     case "l":
+                        l_CalcularKwCLS.CalcularKwCLS();
                         break;
                     case "m":
+                        m_CalcularPrecioArticulo.CalcularPrecioArticulo();
                         break;
                     case "n":
+                        n_CalculoAhorro.CalculoAhorro();
                         break;
                     case "o":
+                        o_CalcularValorCheque.CalcularValorCheque();
                         break;
                     case "p":
+                        p_CalcularPotenciaElectrica.CalcularPotenciaElectrica();
                         break;
                     case "q":
+                        q_PrepararTorta.PrepararTorta();
                         break;
                     case "r":
+                        r_ConfeccionarPrenda.ConfeccionarPrenda();
                         break;
                     case "s":
+                        s_PrepararPastel.PrepararPastel();
                         break;
                     case "t":
+                        t_AreaCuadrado.AreaCuadrado();
                         break;
                     case "u":
+                        u_PromedioAlumno.PromedioAlumno();  
                         break;
                     case "v":
+                        v_CalculoVivido.CalculoVivido();
                         break;
                     case "w":
+                        w_CalcularCostoLlamada.CalcularCostoLlamada();
                         break;
                     case "x":
+                        x_CalcularCobroHuesped.CalcularCobroHuesped();  
                         break;
                     default:
                         Console.WriteLine("\nOpción incorrecta, por favor digite una nueva\n");

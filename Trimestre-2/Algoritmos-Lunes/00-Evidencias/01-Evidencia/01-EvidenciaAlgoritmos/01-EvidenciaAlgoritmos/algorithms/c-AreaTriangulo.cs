@@ -10,20 +10,19 @@ namespace _01_EvidenciaAlgoritmos.algorithms
             // Realice un diagrama de flujo y pseudocódigo que representen el algoritmo para obtener el área de un triángulo.
             string input;
             double h = 0, b = 0;
-            Console.WriteLine("Programa para determinar el area de un triangulo\n");
+            Console.WriteLine("Programa para determinar el área de un triángulo\n");
 
-            Console.WriteLine("Digite la base del triangulo");
+            Console.WriteLine("Digite la base del triángulo");
             input = Console.ReadLine();
             b = Utils.ValidateNumber(input, false);
 
-            Console.WriteLine("Digite la altura del triangulo");
+            Console.WriteLine("Digite la altura del triángulo");
             input = Console.ReadLine();
             h = Utils.ValidateNumber(input, false);
 
-            Console.WriteLine($"\nEl area es {(b * h) / 2}");
+            Console.WriteLine($"\nEl área es {Utils.Rounded((b * h) / 2)}");
 
             Utils.endAlgorithm(c_AreaTriangulo.AreaTriangulo);
-
         }
     }
 }

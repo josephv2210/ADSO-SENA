@@ -10,6 +10,6 @@ Algoritmo CalcularPotenciaElectrica
 	V=I*R
 	P=V*I
 	Escribir "Voltaje en voltios -> ", V
-	Escribir "Potencia electrica en watts-> ", P
+	Escribir "Potencia electrica en watts -> ", P
 
 FinAlgoritmo

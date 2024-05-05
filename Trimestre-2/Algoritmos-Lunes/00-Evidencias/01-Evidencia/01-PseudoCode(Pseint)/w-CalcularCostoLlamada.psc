@@ -7,7 +7,7 @@ Algoritmo CalcularCostoLlamada
 	Escribir "Por favor digite el costo por minuto"
 	Leer  valorMinuto
 	Escribir "Por favor digite la cantidad de minutos consumidos"
-	Leer minuto
-	Escribir "El valor a pagar es -> ", valorMinuto * minuto
+	Leer minutos
+	Escribir "El valor a pagar es -> ", valorMinuto * minutos
 
 FinAlgoritmo

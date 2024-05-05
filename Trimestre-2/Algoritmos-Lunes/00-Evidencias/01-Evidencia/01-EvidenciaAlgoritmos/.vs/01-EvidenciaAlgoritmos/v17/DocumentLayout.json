@@ -3,15 +3,63 @@
   "WorkspaceRootPath": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-evidenciaalgoritmos\\algorithms\\d-mxtousd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\d-mxtousd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-evidenciaalgoritmos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\algorithms\\k-calculom3laconagua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\algorithms\\x-calcularcobrohuesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\x-calcularcobrohuesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\algorithms\\w-calcularcostollamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\w-calcularcostollamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\algorithms\\v-calculovivido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\v-calculovivido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\algorithms\\u-promedioalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\u-promedioalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\algorithms\\t-areacuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\t-areacuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\algorithms\\s-prepararpastel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\s-prepararpastel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\algorithms\\r-confeccionarprenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\r-confeccionarprenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\algorithms\\q-preparartorta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\q-preparartorta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\algorithms\\p-calcularpotenciaelectrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\p-calcularpotenciaelectrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\algorithms\\o-calcularvalorcheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\o-calcularvalorcheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\algorithms\\n-calculoahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\n-calculoahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\algorithms\\m-calcularprecioarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\m-calcularprecioarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\algorithms\\l-calcularkwcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\l-calcularkwcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-evidenciaalgoritmos\\algorithms\\k-calculom3laconagua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\k-calculom3laconagua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -37,6 +85,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-evidenciaalgoritmos\\algorithms\\e-agecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\e-agecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\00-evidencias\\01-evidencia\\01-evidenciaalgoritmos\\01-evidenciaalgoritmos\\algorithms\\d-mxtousd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|solutionrelative:01-evidenciaalgoritmos\\algorithms\\d-mxtousd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EB10509-AC89-49D7-AC1B-1948E647954F}|01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos.csproj|E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-evidenciaalgoritmos\\algorithms\\c-areatriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -96,97 +148,271 @@
         },
         {
           "DockedWidth": 204,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\Program.cs",
               "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\Program.cs",
               "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\Program.cs",
               "RelativeToolTip": "01-EvidenciaAlgoritmos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAgwCkAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T18:13:23.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "x-CalcularCobroHuesped.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\x-CalcularCobroHuesped.cs",
+              "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\x-CalcularCobroHuesped.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\x-CalcularCobroHuesped.cs",
+              "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\x-CalcularCobroHuesped.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:55:07.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "w-CalcularCostoLlamada.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\w-CalcularCostoLlamada.cs",
+              "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\w-CalcularCostoLlamada.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\w-CalcularCostoLlamada.cs",
+              "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\w-CalcularCostoLlamada.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:49:00.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "v-CalculoVivido.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\v-CalculoVivido.cs",
+              "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\v-CalculoVivido.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\v-CalculoVivido.cs",
+              "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\v-CalculoVivido.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:39:41.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "u-PromedioAlumno.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\u-PromedioAlumno.cs",
+              "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\u-PromedioAlumno.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\u-PromedioAlumno.cs",
+              "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\u-PromedioAlumno.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:35:51.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "t-AreaCuadrado.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\t-AreaCuadrado.cs",
+              "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\t-AreaCuadrado.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\t-AreaCuadrado.cs",
+              "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\t-AreaCuadrado.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:33:07.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "s-PrepararPastel.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\s-PrepararPastel.cs",
+              "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\s-PrepararPastel.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\s-PrepararPastel.cs",
+              "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\s-PrepararPastel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:27:05.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "r-ConfeccionarPrenda.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\r-ConfeccionarPrenda.cs",
+              "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\r-ConfeccionarPrenda.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\r-ConfeccionarPrenda.cs",
+              "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\r-ConfeccionarPrenda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:22:32.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "q-PrepararTorta.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\q-PrepararTorta.cs",
+              "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\q-PrepararTorta.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\q-PrepararTorta.cs",
+              "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\q-PrepararTorta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:18:46.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "p-CalcularPotenciaElectrica.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\p-CalcularPotenciaElectrica.cs",
+              "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\p-CalcularPotenciaElectrica.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\p-CalcularPotenciaElectrica.cs",
+              "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\p-CalcularPotenciaElectrica.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:12:30.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "o-CalcularValorCheque.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\o-CalcularValorCheque.cs",
+              "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\o-CalcularValorCheque.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\o-CalcularValorCheque.cs",
+              "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\o-CalcularValorCheque.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:04:18.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "n-CalculoAhorro.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\n-CalculoAhorro.cs",
+              "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\n-CalculoAhorro.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\n-CalculoAhorro.cs",
+              "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\n-CalculoAhorro.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:00:33.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "m-CalcularPrecioArticulo.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\m-CalcularPrecioArticulo.cs",
+              "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\m-CalcularPrecioArticulo.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\m-CalcularPrecioArticulo.cs",
+              "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\m-CalcularPrecioArticulo.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAB4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:44:20.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "l-CalcularKwCLS.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\l-CalcularKwCLS.cs",
+              "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\l-CalcularKwCLS.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\l-CalcularKwCLS.cs",
+              "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\l-CalcularKwCLS.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:07:40.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "k-CalculoM3LaConagua.cs",
               "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\k-CalculoM3LaConagua.cs",
               "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\k-CalculoM3LaConagua.cs",
               "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\k-CalculoM3LaConagua.cs",
               "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\k-CalculoM3LaConagua.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAABGAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T15:28:26.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "j-CalcularTiempoEnBicicleta.cs",
               "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\j-CalcularTiempoEnBicicleta.cs",
               "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\j-CalcularTiempoEnBicicleta.cs",
               "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\j-CalcularTiempoEnBicicleta.cs",
               "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\j-CalcularTiempoEnBicicleta.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAACEAAABUAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T15:26:58.078Z"
+              "WhenOpened": "2024-05-05T15:26:58.078Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "i-LaCurvaLoca.cs",
               "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\i-LaCurvaLoca.cs",
               "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\i-LaCurvaLoca.cs",
               "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\i-LaCurvaLoca.cs",
               "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\i-LaCurvaLoca.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAA4AAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T03:22:36.709Z"
+              "WhenOpened": "2024-05-04T03:22:36.709Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "h-HipotenusaTriangulo2.cs",
               "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\h-HipotenusaTriangulo2.cs",
               "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\h-HipotenusaTriangulo2.cs",
               "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\h-HipotenusaTriangulo2.cs",
               "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\h-HipotenusaTriangulo2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABKAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T03:12:52.172Z"
+              "WhenOpened": "2024-05-04T03:12:52.172Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "g-CobroLaBrochaGorda.cs",
               "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\g-CobroLaBrochaGorda.cs",
               "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\g-CobroLaBrochaGorda.cs",
               "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\g-CobroLaBrochaGorda.cs",
               "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\g-CobroLaBrochaGorda.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABGAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBsAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:38:05.81Z"
+              "WhenOpened": "2024-05-04T01:38:05.81Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "f-Parking.cs",
               "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\f-Parking.cs",
               "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\f-Parking.cs",
               "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\f-Parking.cs",
               "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\f-Parking.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:37:43.865Z"
+              "WhenOpened": "2024-05-04T01:37:43.865Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "e-AgeCalculator.cs",
               "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\e-AgeCalculator.cs",
               "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\e-AgeCalculator.cs",
@@ -194,68 +420,73 @@
               "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\e-AgeCalculator.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAADwvx8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:37:12.979Z"
+              "WhenOpened": "2024-05-04T01:37:12.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 21,
               "Title": "d-MxToUsd.cs",
               "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\d-MxToUsd.cs",
               "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\d-MxToUsd.cs",
               "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\d-MxToUsd.cs",
               "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\d-MxToUsd.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T01:36:44.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "c-AreaTriangulo.cs",
               "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\c-AreaTriangulo.cs",
               "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\c-AreaTriangulo.cs",
               "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\c-AreaTriangulo.cs",
               "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\c-AreaTriangulo.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAA8AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:36:20.309Z"
+              "WhenOpened": "2024-05-04T01:36:20.309Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "b-AreaVolumenCilindro.cs",
               "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\b-AreaVolumenCilindro.cs",
               "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\b-AreaVolumenCilindro.cs",
               "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\b-AreaVolumenCilindro.cs",
               "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\b-AreaVolumenCilindro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:31:16.78Z"
+              "WhenOpened": "2024-05-04T01:31:16.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "a-hipotenusaTriangulo.cs",
               "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\a-hipotenusaTriangulo.cs",
               "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\algorithms\\a-hipotenusaTriangulo.cs",
               "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\algorithms\\a-hipotenusaTriangulo.cs",
               "RelativeToolTip": "01-EvidenciaAlgoritmos\\algorithms\\a-hipotenusaTriangulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:05:16.287Z"
+              "WhenOpened": "2024-05-04T01:05:16.287Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "Validators.cs",
               "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\utils\\Validators.cs",
               "RelativeDocumentMoniker": "01-EvidenciaAlgoritmos\\utils\\Validators.cs",
               "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\00-Evidencias\\01-Evidencia\\01-EvidenciaAlgoritmos\\01-EvidenciaAlgoritmos\\utils\\Validators.cs",
               "RelativeToolTip": "01-EvidenciaAlgoritmos\\utils\\Validators.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCYAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:09:31.809Z"
+              "WhenOpened": "2024-05-04T01:09:31.809Z",
+              "EditorCaption": ""
             }
           ]
         }

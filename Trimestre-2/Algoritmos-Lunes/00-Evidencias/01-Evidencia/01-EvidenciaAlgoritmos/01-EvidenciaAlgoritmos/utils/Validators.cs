@@ -53,5 +53,10 @@ namespace _01_EvidenciaAlgoritmos.utils
             }
 
         }
+
+        public static double Rounded(double value)
+        {
+            return Math.Round(value, 2);
+        }
     }
 }
