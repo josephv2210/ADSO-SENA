@@ -7,18 +7,17 @@ using System.Threading.Tasks;
 
 namespace _01_EvidenciaAlgoritmos.algorithms
 {
-    internal class i_LaCurvaLoca
+    internal class k_CalculoM3LaConagua
     {
-        public static void LaCurvaLoca()
+        public static void CalculoM3LaConagua()
         {
-            //La compañía de autobuses "La curva loca" requiere determinar el costo que tendrá
-            //el boleto de un viaje sencillo, esto basado en los kilómetros por recorrer y en el costo
-            //por kilómetro. Realice un diagrama de flujo y pseudocódigo que representen el
-            //algoritmo para tal fin. 
+            //La CONAGUA requiere determinar el pago que debe realizar una persona por el total
+            //de metros cúbicos que consume de agua. Realice un diagrama de flujo y
+            //pseudocódigo que representen el algoritmo que permita determinar ese pago.
 
             string input;
             double valorKm, km;
-            Console.WriteLine("Programa para determinar el cobro que tendra el boleto de un viaje sencillo\n");
+            Console.WriteLine("Programa para determinar el cobro que tendra una persona por el total de metros cúbicos que consume de agua\n");
 
             Console.WriteLine("Por favor digite el valor del kilometro");
             input = Console.ReadLine();
@@ -32,7 +31,7 @@ namespace _01_EvidenciaAlgoritmos.algorithms
 
             Console.WriteLine($"\nEl valor a pagar es es -> {valorKm * km}");
 
-            Utils.endAlgorithm(i_LaCurvaLoca.LaCurvaLoca);
+            Utils.endAlgorithm(k_CalculoM3LaConagua.CalculoM3LaConagua);
         }
     }
 }

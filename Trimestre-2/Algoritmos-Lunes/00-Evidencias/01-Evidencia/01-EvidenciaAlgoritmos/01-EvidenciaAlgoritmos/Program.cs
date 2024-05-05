@@ -75,8 +75,10 @@ namespace _01_EvidenciaAlgoritmos
                         i_LaCurvaLoca.LaCurvaLoca();
                         break;
                     case "j":
+                        j_CalcularTiempoEnBicicleta.CalcularTiempoEnBicicleta();
                         break;
                     case "k":
+                        k_CalculoM3LaConagua.CalculoM3LaConagua();
                         break;
                     case "l":
                         break;

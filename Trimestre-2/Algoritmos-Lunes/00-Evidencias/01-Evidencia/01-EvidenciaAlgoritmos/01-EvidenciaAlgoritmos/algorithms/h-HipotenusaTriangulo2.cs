@@ -28,7 +28,7 @@ namespace _01_EvidenciaAlgoritmos.algorithms
 
             Console.WriteLine($"\nLa hipotenusa del triangulo rectangulo es {Math.Sqrt((Math.Pow(a, 2) + Math.Pow(b, 2)))}");
 
-            Utils.endAlgorithm(a_hipotenusaTriangulo.HipotenusaTriangulo);
+            Utils.endAlgorithm(h_HipotenusaTriangulo2.HipotenusaTriangulo2);
         }
     }
 }
