@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\03-condicionales\\Condicionales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE43BFF-76D7-4BF0-946F-66F87EBE7991}|Condicionales\\Condicionales.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\03-condicionales\\condicionales\\condicionales\\condicionessimples\\03-calculeproductodescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE43BFF-76D7-4BF0-946F-66F87EBE7991}|Condicionales\\Condicionales.csproj|solutionrelative:condicionales\\condicionessimples\\03-calculeproductodescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE43BFF-76D7-4BF0-946F-66F87EBE7991}|Condicionales\\Condicionales.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\03-condicionales\\condicionales\\condicionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE43BFF-76D7-4BF0-946F-66F87EBE7991}|Condicionales\\Condicionales.csproj|solutionrelative:condicionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE43BFF-76D7-4BF0-946F-66F87EBE7991}|Condicionales\\Condicionales.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\03-condicionales\\condicionales\\condicionales\\condicionessimples\\02-paroimpar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE43BFF-76D7-4BF0-946F-66F87EBE7991}|Condicionales\\Condicionales.csproj|solutionrelative:condicionales\\condicionessimples\\02-paroimpar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE43BFF-76D7-4BF0-946F-66F87EBE7991}|Condicionales\\Condicionales.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\03-condicionales\\condicionales\\condicionales\\utils\\validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE43BFF-76D7-4BF0-946F-66F87EBE7991}|Condicionales\\Condicionales.csproj|solutionrelative:condicionales\\utils\\validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE43BFF-76D7-4BF0-946F-66F87EBE7991}|Condicionales\\Condicionales.csproj|e:\\00. sena\\repo\\trimestre-2\\algoritmos-lunes\\03-condicionales\\condicionales\\condicionales\\condicionessimples\\01-horaslaboradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE43BFF-76D7-4BF0-946F-66F87EBE7991}|Condicionales\\Condicionales.csproj|solutionrelative:condicionales\\condicionessimples\\01-horaslaboradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "03-calculeProductoDescuento.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\03-condicionales\\Condicionales\\Condicionales\\CondicionesSimples\\03-calculeProductoDescuento.cs",
+              "RelativeDocumentMoniker": "Condicionales\\CondicionesSimples\\03-calculeProductoDescuento.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\03-condicionales\\Condicionales\\Condicionales\\CondicionesSimples\\03-calculeProductoDescuento.cs",
+              "RelativeToolTip": "Condicionales\\CondicionesSimples\\03-calculeProductoDescuento.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:42:33.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "02-parOImpar.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\03-condicionales\\Condicionales\\Condicionales\\CondicionesSimples\\02-parOImpar.cs",
+              "RelativeDocumentMoniker": "Condicionales\\CondicionesSimples\\02-parOImpar.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\03-condicionales\\Condicionales\\Condicionales\\CondicionesSimples\\02-parOImpar.cs",
+              "RelativeToolTip": "Condicionales\\CondicionesSimples\\02-parOImpar.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwB8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:35:49.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validators.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\03-condicionales\\Condicionales\\Condicionales\\Utils\\Validators.cs",
+              "RelativeDocumentMoniker": "Condicionales\\Utils\\Validators.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\03-condicionales\\Condicionales\\Condicionales\\Utils\\Validators.cs",
+              "RelativeToolTip": "Condicionales\\Utils\\Validators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:27:38.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "01-horasLaboradas.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\03-condicionales\\Condicionales\\Condicionales\\CondicionesSimples\\01-horasLaboradas.cs",
+              "RelativeDocumentMoniker": "Condicionales\\CondicionesSimples\\01-horasLaboradas.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\03-condicionales\\Condicionales\\Condicionales\\CondicionesSimples\\01-horasLaboradas.cs",
+              "RelativeToolTip": "Condicionales\\CondicionesSimples\\01-horasLaboradas.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA5wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:23:09.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\03-condicionales\\Condicionales\\Condicionales\\Program.cs",
+              "RelativeDocumentMoniker": "Condicionales\\Program.cs",
+              "ToolTip": "E:\\00. Sena\\Repo\\Trimestre-2\\Algoritmos-Lunes\\03-condicionales\\Condicionales\\Condicionales\\Program.cs",
+              "RelativeToolTip": "Condicionales\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:21:34.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

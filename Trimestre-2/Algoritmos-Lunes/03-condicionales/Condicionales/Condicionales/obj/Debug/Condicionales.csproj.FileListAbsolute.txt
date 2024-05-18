@@ -1,0 +1,7 @@
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\03-condicionales\Condicionales\Condicionales\bin\Debug\Condicionales.exe.config
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\03-condicionales\Condicionales\Condicionales\bin\Debug\Condicionales.exe
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\03-condicionales\Condicionales\Condicionales\bin\Debug\Condicionales.pdb
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\03-condicionales\Condicionales\Condicionales\obj\Debug\Condicionales.csproj.AssemblyReference.cache
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\03-condicionales\Condicionales\Condicionales\obj\Debug\Condicionales.csproj.CoreCompileInputs.cache
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\03-condicionales\Condicionales\Condicionales\obj\Debug\Condicionales.exe
+E:\00. Sena\Repo\Trimestre-2\Algoritmos-Lunes\03-condicionales\Condicionales\Condicionales\obj\Debug\Condicionales.pdb

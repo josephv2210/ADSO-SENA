@@ -1,0 +1,14 @@
+Estructuras condicionales
+
+Estructuras simples -> Si
+Estructuras complejas -> Si - Sino
+Anidadas o multiples -> Si - Sino - Si
+
+
+//
+Inicio
+    Escribir "Digite un Número"
+    lea Num1
+    Si (num1 mod 2 = 0) entonces
+        Esc "Es par"
+    fin si
