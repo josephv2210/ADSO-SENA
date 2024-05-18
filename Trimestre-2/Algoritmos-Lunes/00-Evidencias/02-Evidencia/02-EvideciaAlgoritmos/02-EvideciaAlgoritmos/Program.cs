@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using _02_EvideciaAlgoritmos.algorithms;
+using System;
 
 namespace _02_EvideciaAlgoritmos
 {
@@ -13,35 +10,25 @@ namespace _02_EvideciaAlgoritmos
             int option;
             do
             {
-                Console.WriteLine("Bienvenido a la evidencia de aprendizaje sobre algoritmos");
+                Console.WriteLine("Bienvenido a la evidencia de aprendizaje 2 sobre algoritmos");
                 Console.WriteLine("\nA continuación, el menú de los algoritmos:");
-                Console.WriteLine("\na. Hipotenusa del triángulo");
-                Console.WriteLine("b. Área y volumen de un cilindro");
-                Console.WriteLine("c. Área de un triángulo");
-                Console.WriteLine("d. Pesos mexicanos a dólar");
-                Console.WriteLine("e. Calculadora de edad");
-                Console.WriteLine("f. Cobro de un parqueadero");
-                Console.WriteLine("g. Cobrar por M2 de trabajo");
-                Console.WriteLine("h. Hipotenusa del triángulo 2");
-                Console.WriteLine("i. Cobro del boleto de un viaje");
-                Console.WriteLine("j. Determinar el tiempo de viaje de una ciudad a otra");
-                Console.WriteLine("k. Cobro del consumo total de m^3 ");
-                Console.WriteLine("l. Cobro del consumo de energía eléctrica");
-                Console.WriteLine("m. Cobro final del producto");
-                Console.WriteLine("n. Ahorro de una persona en un año");
-                Console.WriteLine("o. Determinar el cobro de un cheque");
-                Console.WriteLine("p. Potencia eléctrica del circuito");
-                Console.WriteLine("q. Pseudocódigo preparar torta");
-                Console.WriteLine("r. Pseudocódigo confeccionar una prenda");
-                Console.WriteLine("s. Pseudocódigo preparar un pastel");
-                Console.WriteLine("t. Área de un cuadrado");
-                Console.WriteLine("u. Promedio de los exámenes de un alumno");
-                Console.WriteLine("v. Cálculo del tiempo vivido");
-                Console.WriteLine("w. Cobro costo de la llamada");
-                Console.WriteLine("x. Cobro huésped");
+                Console.WriteLine("\n1. Derecho al voto");
+                Console.WriteLine("2. Sueldo semanal");
+                Console.WriteLine("3. Compra de regalo");
+                Console.WriteLine("4. Cobro estacionamiento");
+                Console.WriteLine("5. Menor de tres personas");
+                Console.WriteLine("6. Costo con descuento");
+                Console.WriteLine("7. Becas estudiantiles");
+                Console.WriteLine("8. Bono mensual");
+                Console.WriteLine("9. Poliza de seguros");
+                Console.WriteLine("10. Vacaciones la tortuga");
+                Console.WriteLine("11. Bono antiguedad");
+                Console.WriteLine("12. Sueldo semanal");
+                Console.WriteLine("13. Viaje de estudios");
+                Console.WriteLine("14. Calificación a notas");
 
                 Console.WriteLine("0. Salir");
-                
+
                 Console.WriteLine("\nDigite el algoritmo seleccionado");
 
                 option = int.Parse(Console.ReadLine());
@@ -50,12 +37,48 @@ namespace _02_EvideciaAlgoritmos
                 switch (option)
                 {
                     case 1:
-                        //a_hipotenusaTriangulo.HipotenusaTriangulo();
+                        _1_derechoVoto.DerechoVoto();
                         break;
                     case 2:
-                        //b_AreaVolumenCilindro.AreaVolumenCilindro();
+                        _2_sueldoSemanal.SueldoSemanal();
                         break;
-                    
+                    case 3:
+                        _3_comprarRegalo.ComprarRegalo();
+                        break;
+                    case 4:
+                        _4_cobroEstacionamiento.CobroEstacionamiento();
+                        break;
+                    case 5:
+                        _5_menorDeTres.MenorDeTres();
+                        break;
+                    case 6:
+                        _6_costoConDescuento.CostoConDescuento();
+                        break;
+                    case 7:
+                        _7_becasEstudiantiles.BecasEstudiantiles();
+                        break;
+                    case 8:
+                        _8_bonoMensual.BonoMensual();
+                        break;
+                    case 9:
+                        _9_polizaSeguro.PolizaSeguro();
+                        break;
+                    case 10:
+                        _10_vacacionesLaTortuga.VacacionesLaTortuga();
+                        break;
+                    case 11:
+                        _11_bonoAntiguedad.BonoAntiguedad();
+                        break;
+                    case 12:
+                        _12_sueldoSemanal.SueldoSemanal();
+                        break;
+                    case 13:
+                        _13_viajeEstudios.ViajeEstudios();
+                        break;
+                    case 14:
+                        _14_calificacionNotas.CalificacionNotas();
+                        break;
+
                     default:
                         Console.WriteLine("\nOpción incorrecta, por favor digite una nueva\n");
                         break;

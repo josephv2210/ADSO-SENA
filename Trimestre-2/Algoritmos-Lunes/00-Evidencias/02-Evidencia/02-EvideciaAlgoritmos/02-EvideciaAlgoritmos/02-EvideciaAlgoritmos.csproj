@@ -43,6 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="algorithms\10_vacacionesLaTortuga.cs" />
+    <Compile Include="algorithms\11_bonoAntiguedad.cs" />
+    <Compile Include="algorithms\12_sueldoSemanal.cs" />
+    <Compile Include="algorithms\13_viajeEstudios.cs" />
+    <Compile Include="algorithms\14_calificacionNotas.cs" />
+    <Compile Include="algorithms\1_derechoVoto.cs" />
+    <Compile Include="algorithms\2_sueldoSemanal.cs" />
+    <Compile Include="algorithms\3_comprarRegalo.cs" />
+    <Compile Include="algorithms\4_cobroEstacionamiento.cs" />
+    <Compile Include="algorithms\5_menorDeTres.cs" />
+    <Compile Include="algorithms\6_costoConDescuento.cs" />
+    <Compile Include="algorithms\7_becasEstudiantiles.cs" />
+    <Compile Include="algorithms\8_bonoMensual.cs" />
+    <Compile Include="algorithms\9_polizaSeguro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="utils\Validators.cs" />
